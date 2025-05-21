@@ -9,7 +9,9 @@ Exiba no console o valor da posição linha 2 coluna 3.
 demonstrado abaixo:
 
 a a a a
+
 b b b b
+
 c c c c
 
 3. Leia uma matriz 4x3 de números inteiros. Após a leitura, exiba o maior e o menor valor contido
